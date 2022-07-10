@@ -1,3 +1,2 @@
 # pruebasNaz
-sd,fjlisashfñoiahfñoajfñoi
-
+Repositorio de pruebas
